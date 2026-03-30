@@ -1,2 +1,2 @@
 # connector
-automates data downloading from Garmin Connect
+Processes the data from garmin .fit files
